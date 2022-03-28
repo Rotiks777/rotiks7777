@@ -1,0 +1,8 @@
+// CORE FUNCTIONS
+@import './bootstrap-rtl-fix/functions';
+@import './free/functions';
+
+// CORE VARIABLES
+@import './custom/variables';
+@import './free/variables';
+@import './bootstrap-rtl-fix/variables';
